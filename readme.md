@@ -7,3 +7,5 @@ We shall use github for this.
 
 "Remote" stands for the different accounts online that the repository can live in
 "Origin" is a name given to a remote, it can be anything
+
+Introduction to Remote Repository, website -git-tower.com.
