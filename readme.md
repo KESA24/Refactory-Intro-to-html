@@ -35,3 +35,5 @@ The command "git pull" get changes made in the online repository and adds them t
 Git Branches
 1. Master: This branch is the main/viable version of the project/product at a given time.
 2.Branches: Use branches to work on product parts before merging to the final product. The command to create a branch is "git checkout -b "branch name"" for example, "git checkout -b "desserts:"
+
+Branches can be merged using the git merge "branch name". You checkout the branch that you want a branch merged to and type this comman there.
