@@ -55,3 +55,5 @@ elements with "ids" are called with '#[idname]'. On each page, there should only
 
 The CSS Universal selector is * sign
 You can also group select elements in html if they all have the same look--->; h1,h2,p{}
+
+Inline (defined in the element),Internal(defined in style tag in the html document/file in the head section) and External CSS(defined in a separate file and linked in the head section )
