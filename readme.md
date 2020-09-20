@@ -38,3 +38,20 @@ Git Branches
 
 Branches can be merged using the git merge "branch name". You checkout the branch that you want a branch merged to and type this comman there.
 We go back to a file version by typing the command "git reset --hard [git log reference number generated when you commit changes hence commit importance]"
+
+#CSS Introduction
+Css is used to design and improve how an html document looks like.
+
+Css selectors are used to select an element. These are like names of the elemnts in an html page
+
+elements with "ids" are called with '#[idname]'. On each page, there should only one element with a particular id, as in normal life, one item has one particular id.
+
+1.By default,all elements have a default style.
+2.You can specify style for a given element using the elemnt selector and all elements on the page will change.
+ 3.If you define a class and assign it to the elements on the page, it overides the element 
+ selector and the default selector.
+  4.If you define an id and assign it to an element, it overides the class, the element and the default styles.
+     id>class>element>default.
+
+The CSS Universal selector is * sign
+You can also group select elements in html if they all have the same look--->; h1,h2,p{}
